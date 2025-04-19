@@ -44,11 +44,12 @@ Raw audio files are not included in this repository due to file size constraints
 ```bash
 git clone https://github.com/yourusername/deception-detection-audio-ml.git
 cd deception-detection-audio-ml
+```
 
-###2. Install dependencies
+### 2. Install dependencies
 pip install -r requirements.txt
 
-3. Run the notebook
+### 3. Run the notebook
 Open the notebook in notebooks/model_training.ipynb and run the cells to load the data, train models, and evaluate performance.
 
 
